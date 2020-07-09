@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋 I'm Gerald
+
+Currently sorting out the bits for Visual Studio Codespaces at Microsoft. 
+
+## Testimonials
+Here is some reviews people are leaving about me (add yours by PRing it in!):
 
 <!--
-**jfversluis/jfversluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I.e.
 
-Here are some ideas to get you started:
+> Your eyebrows are on fleek.
+> -Derek Zoolander
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> You’re one of my favorite drunken karaoke partners.
+> -JarJar Binks
+
+> 10/10 would befriend again
+> -Rick Sanchez
 -->
+
+## 🧔 - About
+
+- Name: Gerald Versluis
+- Pronouns: he/him
+- Company email: gerald.versluis@microsoft.com
+- Twitter: [@jfversluis](https://twitter.com/jfversluis)
+- Blog: [blog.verslu.is](https://blog.verslu.is)
+- YouTube: [youtube.com/GeraldVersluis](https://www.youtube.com/GeraldVersluis)
+- Twitch: [twitch.tv/jfversluis](https://www.twitch.tv/jfversluis)
+- All the handles and things: [jfversluis.dev](https://jfversluis.dev)
