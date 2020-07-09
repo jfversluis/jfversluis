@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Gerald
 
-Currently sorting out the bits for Visual Studio Codespaces at Microsoft. 
+Currently sorting out the bits for Visual Studio Codespaces at Microsoft. Formerly working on Xamarin.Forms.
 
-## Testimonials
+Love interacting with the community and exchanging knowledge 📚.
+
+## 🧪 - Testimonials
 Here is some reviews people are leaving about me (add yours by PRing it in!):
 
 <!--
@@ -18,9 +20,9 @@ I.e.
 > -Rick Sanchez
 -->
 
-## 🧔 - About
+## 🤓 - About
 
-- Name: Gerald Versluis
+- Name: Gerald Versluis (jfversluis)
 - Pronouns: he/him
 - Company email: gerald.versluis@microsoft.com
 - Twitter: [@jfversluis](https://twitter.com/jfversluis)
