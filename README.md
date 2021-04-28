@@ -1,24 +1,8 @@
 # Hi there 👋 I'm Gerald
 
-Currently sorting out the bits for Visual Studio Codespaces at Microsoft. Formerly working on Xamarin.Forms.
+Currently sorting out the bits for Visual Studio Codespaces at Microsoft. Formerly working on Xamarin.Forms, still working on the Xamarin Community Toolkit.
 
 Love interacting with the community and exchanging knowledge 📚.
-
-## 🧪 - Testimonials
-Here is some reviews people are leaving about me (add yours by PRing it in!):
-
-<!--
-I.e.
-
-> Your eyebrows are on fleek.
-> -Derek Zoolander
-
-> You’re one of my favorite drunken karaoke partners.
-> -JarJar Binks
-
-> 10/10 would befriend again
-> -Rick Sanchez
--->
 
 ## 🤓 - About
 
