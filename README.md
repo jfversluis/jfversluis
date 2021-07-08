@@ -14,3 +14,6 @@ Love interacting with the community and exchanging knowledge 📚.
 - YouTube: [youtube.com/GeraldVersluis](https://www.youtube.com/GeraldVersluis)
 - Twitch: [twitch.tv/jfversluis](https://www.twitch.tv/jfversluis)
 - All the handles and things: [jfversluis.dev](https://jfversluis.dev)
+
+## Some Stats
+![Gerald's Github stats](https://github-readme-stats.vercel.app/api?username=jfversluis&show_icons=true)
