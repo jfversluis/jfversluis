@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Gerald
 
-Currently sorting out the bits for Visual Studio Codespaces at Microsoft. Formerly working on Xamarin.Forms, still working on the Xamarin Community Toolkit.
+Currently sorting out the bits for .NET MAUI at Microsoft. Formerly working on Xamarin.Forms and GitHub Codesapces, still working on the Xamarin Community Toolkit.
 
 Love interacting with the community and exchanging knowledge 📚.
 
