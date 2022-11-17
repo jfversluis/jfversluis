@@ -18,6 +18,7 @@ Love interacting with the community and exchanging knowledge 📚.
 - Pronouns: he/him
 - Company email: gerald.versluis@microsoft.com
 - Twitter: [@jfversluis](https://twitter.com/jfversluis)
+- Mastodon: <a rel="me" href="https://mas.to/@jfversluis">@jfversluis</a>
 - Blog: [blog.verslu.is](https://blog.verslu.is)
 - YouTube: [youtube.com/GeraldVersluis](https://www.youtube.com/GeraldVersluis)
 - Twitch: [twitch.tv/jfversluis](https://www.twitch.tv/jfversluis)
