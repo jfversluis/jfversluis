@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jfversluis&show_icons=true&count_private=true" alt="jfversluis GitHub stats" align="right" />
 </a>-->
 
-Currently sorting out the bits for .NET MAUI at Microsoft. Formerly working on Xamarin.Forms and GitHub Codespaces, addtionally working on the .NET MAUI Community Toolkit and loads of [content](https://www.youtube.com/@jfversluis) to make your developer life easier!
+Currently sorting out the bits for .NET MAUI at Microsoft. Formerly working on Xamarin.Forms and GitHub Codespaces, additionally working on the .NET MAUI Community Toolkit and loads of [content](https://www.youtube.com/@jfversluis) to make your developer life easier!
 
 ## 🤓 - About
 
